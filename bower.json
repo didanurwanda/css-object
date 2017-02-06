@@ -1,0 +1,24 @@
+{
+  "name": "css-object",
+  "description": "management css in javascript object",
+  "main": "index.js",
+  "authors": [
+    "Dida Nurwanda"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "css-js",
+    "css-jquery",
+    "css-object",
+    "object"
+  ],
+  "homepage": "https://github.com/didanurwanda/css-object",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
